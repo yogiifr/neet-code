@@ -1,8 +1,8 @@
 # Neetcode Algorithms & Data Stucture Roadmap
 
-### 0 / 150
+### 6 / 150
 
-#### [Array & Hashing](array&hashing/) <span style="font-size: 10px; color: black; background-color: yellow; "> 0/9
+#### [Array & Hashing](array&hashing/) <span style="font-size: 10px; color: black; background-color: yellow; "> 6/9
 
 - Dynamic Arrays
 - Hash Usage
