@@ -1,6 +1,6 @@
 # Neetcode Algorithms & Data Stucture Roadmap
 
-### 6 / 150
+### 11 / 150
 
 #### [Array & Hashing](array&hashing/) <span style="font-size: 10px; color: black; background-color: yellow; "> 6/9
 
@@ -13,7 +13,7 @@
 
 > _Prerequisite: Array & Hashing_
 
-#### [Two Pointers]() <span style="font-size: 10px; color: black; background-color: yellow; "> 0/5
+#### [Two Pointers]() <span style="font-size: 10px; color: black; background-color: yellow; "> 5/5
 
 #### [Stack]() <span style="font-size: 10px; color: black; background-color: yellow; "> 0/7
 
